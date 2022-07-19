@@ -14,16 +14,5 @@ main.py実行で釣果テーブルが表示されます。
 入力した釣果情報をデータベースに登録できます。
 
 ディレクトリ構成
-.
-├── Fishing_log_app
-│   ├── __init__.py
-│   ├── __pycache__
-│   ├── main_window.py・・・釣果テーブル画面に関するコード
-│   ├── pgsql_method.py・・・DBへの登録、DBからの情報取得に関するコード
-│   └── regist_window.py・・・釣果入力フォームに関するコード
-├── README.md
-├── __pycache__
-├── main.py
-├── venv
-│   └── Pyenv_postgreSQL
-└── デモ動画.mov・・・プログラムの操作している様子を撮影しました。
+
+
