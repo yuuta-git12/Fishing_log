@@ -1,7 +1,7 @@
 # Fishing_log
 PythonとpostgreSQLを使った釣果記録表
 
-PythonとpostgreSQLの学習用に作成したプログラム
+PythonのtkinterとpostgreSQLの学習用に作成したプログラム
 postgreSQLはローカルホストで使用しています。
 
 main.py実行で釣果テーブルが表示されます。
@@ -17,3 +17,4 @@ main.py実行で釣果テーブルが表示されます。
 main_window.py:釣果テーブル画面に関するコード
 regist_window.py:釣果入力フォームに関するコード
 pgsql_method.py:DBへの登録、DBからの情報取得に関するコード
+デモ動画：プログラムの操作している様子を撮影しました。
